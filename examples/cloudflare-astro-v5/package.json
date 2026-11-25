@@ -9,8 +9,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/cloudflare": "^12.5.3",
-    "astro": "^5.8.1",
+    "@astrojs/cloudflare": "^14.4.9",
+    "astro": "^7.4.13",
     "sst": "file:../../sdk/js"
   },
   "devDependencies": {
